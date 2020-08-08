@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Bienvenido a The Corner 4 Friends - Sports Bar
 
-You can use the [editor on GitHub](https://github.com/eduardogch/thecornerforfriends/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Nos distinguimos por la gran calidad en nuestros platillos y bebidas entregando en cada uno un sabor inolvidable. ¡Ven a conocernos y vive una gran experiencia!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Ubicacion
 
-### Markdown
+Estamos ubicados en _Revolución, 74270 Atlixco, Puebla, Mexico_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3774.7754474095254!2d-98.43282358513704!3d18.897040487190797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfb31e3070a477%3A0xc9db744f584083bb!2sThe%20Corner%204%20Friends!5e0!3m2!1sen!2sus!4v1596896722756!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-```markdown
-Syntax highlighted code block
+### Redes Sociales
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eduardogch/thecornerforfriends/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Facebook](https://www.facebook.com/thecorner4friends/)
+- [Instagram](https://www.instagram.com/thecornerforfriends/)
