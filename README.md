@@ -18,7 +18,6 @@ Estamos ubicados en _Revolución, 74270 Atlixco, Puebla, Mexico_
 ### Especiales
 
 - [Especial 1](https://github.com/eduardogch/thecornerforfriends/raw/master/Men%C3%BA%20nuevo%20provisional%20%5BAutoguardado%5D%20Agosto.pdf)
-- [Especial 2](https://github.com/eduardogch/thecornerforfriends/raw/master/Men%C3%BA%20nuevo%20provisional%20%5BAutoguardado%5D.pdf)
 
 ### Redes Sociales
 
