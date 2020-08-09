@@ -12,12 +12,12 @@ Estamos ubicados en _Revolución, 74270 Atlixco, Puebla, Mexico_
 
 ### Menus
 
-- [Menu de Bebidas](https://github.com/eduardogch/thecornerforfriends/raw/master/CORNER%20MENU%20BEBIDAS%202.pdf)
-- [Menu de Comida](https://github.com/eduardogch/thecornerforfriends/raw/master/CORNER%20MENU%20COMIDA%201.pdf)
+- [Menu de Bebidas](https://thecorner4friends.com/CORNER%20MENU%20BEBIDAS%202.pdf)
+- [Menu de Comida](https://thecorner4friends.com//CORNER%20MENU%20COMIDA%201.pdf)
 
 ### Especiales
 
-- [Especial 1](https://github.com/eduardogch/thecornerforfriends/raw/master/Men%C3%BA%20nuevo%20provisional%20%5BAutoguardado%5D%20Agosto.pdf)
+- [Especial 1](https://thecorner4friends.com/Men%C3%BA%20nuevo%20provisional%20%5BAutoguardado%5D%20Agosto.pdf)
 
 ### Redes Sociales
 
