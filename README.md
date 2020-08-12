@@ -15,6 +15,10 @@ Estamos ubicados en _Revolución, 74270 Atlixco, Puebla, Mexico_
 - [Menu de Bebidas](https://thecorner4friends.com/CORNER%20MENU%20BEBIDAS%202.pdf)
 - [Menu de Comida](https://thecorner4friends.com//CORNER%20MENU%20COMIDA%201.pdf)
 
+### Facturación en línea
+
+- [Facturación](https://www.nationalsoft-cloud.com/thecorner4friends)
+
 ### Especiales
 
 - [Especial 1](https://thecorner4friends.com/Men%C3%BA%20nuevo%20provisional%20%5BAutoguardado%5D%20Agosto.pdf)
@@ -23,3 +27,8 @@ Estamos ubicados en _Revolución, 74270 Atlixco, Puebla, Mexico_
 
 - [Facebook](https://www.facebook.com/thecorner4friends/)
 - [Instagram](https://www.instagram.com/thecornerforfriends/)
+
+### Contactos
+
+- [administracion](mailto:administracion@thecorner4friends.com)
+- [facturacion](mailto:facturacion@thecorner4friends.com)
